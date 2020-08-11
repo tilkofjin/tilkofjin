@@ -45,6 +45,10 @@
         <span>𝗚𝗶𝘁</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
+      <td width="20%" align="center">
+        <span>Nginx</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/nginx.svg">
+      </td>
     </tr>
   </tbody>
 </table>
@@ -52,7 +56,6 @@
 
 <!--
 **tilkofjin/tilkofjin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 - 🌱 I’m currently learning nestjs
 - ⚡ Fun fact: The front end is a very good cross-end language
--->
