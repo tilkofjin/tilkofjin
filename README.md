@@ -58,4 +58,4 @@
 **tilkofjin/tilkofjin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 - 🌱 I’m currently learning nestjs
-- ⚡ Fun fact: The front end is a very good cross-end language
+- ⚡ The front end is a very good cross-end language
