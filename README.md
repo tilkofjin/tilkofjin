@@ -1,4 +1,4 @@
-### HI! I am Tilkofjin 😃 
+### HI! I am Tilkofjin 😃 :wave: [![Codeforces Rating](https://cfrating.ihcr.top/?user=tilkofjin&style=flat-square)](https://codeforces.com/profile/tilkofjin)
 - 🤟🏻 I like front-end development!
 - 🏊 I like swimming and ping pong.
 
