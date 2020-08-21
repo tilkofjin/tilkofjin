@@ -2,7 +2,7 @@
 - 🤟🏻 I like front-end development!
 - 🏊 I like swimming and ping pong.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tilkofjin&layout=default)](https://github.com/tilkofjin/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tilkofjin)](https://github.com/tilkofjin/github-readme-stats)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tilkofjin&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
 
 ### Tech Stack
