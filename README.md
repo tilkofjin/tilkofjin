@@ -3,7 +3,8 @@
 - 🏊 I like swimming and ping pong.
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tilkofjin&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tilkofjin&layout=compact)](https://github.com/tilkofjin/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tilkofjin&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tilkofjin&layout=compact)](https://github.com/tilkofjin/github-readme-stats)
 
 ### Tech Stack
 <table>
