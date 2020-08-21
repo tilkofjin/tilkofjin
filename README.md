@@ -53,7 +53,7 @@
   </tbody>
 </table>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?tilkofjin=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tilkofjin&layout=compact)](https://github.com/tilkofjin/github-readme-stats)
 <!--
 **tilkofjin/tilkofjin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
