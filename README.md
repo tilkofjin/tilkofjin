@@ -52,9 +52,3 @@
   </tbody>
 </table>
 
-
-<!--
-**tilkofjin/tilkofjin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-- 🌱 I’m currently learning nestjs
-- ⚡ The front end is a very good cross-end language
