@@ -1,4 +1,4 @@
-### HI! I am Tilkofjin 😃 
+### 👋 Hi there
 
 <div align="center">
 
